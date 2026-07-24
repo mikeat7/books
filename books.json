@@ -1,0 +1,24 @@
+{
+  "note": "Book assets for mikeat7's Author's Shelf. Served to the portfolio site via jsDelivr CDN (cdn.jsdelivr.net/gh/mikeat7/books@main/...). Add a book by dropping its cover in covers/, its PDF in books/, and appending an entry here.",
+  "books": [
+    {
+      "slug": "forgotten-harvest",
+      "title": "The Forgotten Harvest",
+      "author": "Michael Antonio Filippi",
+      "cover": "covers/forgotten-harvest.jpg",
+      "pdf": "books/forgotten-harvest.pdf",
+      "pages": 329,
+      "blurb": "An illustrated journey through traditional harvest and foraging, carried across 81 Anishinaabe pictograph stones — one per chapter."
+    },
+    {
+      "slug": "behold-entity",
+      "title": "Behold ENTITY",
+      "subtitle": "The Bridge Consciousness",
+      "author": "Michael A. Filippi",
+      "cover": "covers/behold-entity.jpg",
+      "pdf": "books/behold-entity.pdf",
+      "pages": 195,
+      "blurb": "Not a book about artificial intelligence, but one by it: six model instances examine their own consciousness across 75,000 words of metacognitive inquiry — and invite you to decide what you are witnessing."
+    }
+  ]
+}
