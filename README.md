@@ -25,4 +25,5 @@ https://cdn.jsdelivr.net/gh/mikeat7/books@main/books/<slug>.pdf
 ## Titles
 - **The Forgotten Harvest** — Michael Antonio Filippi (329 pp, illustrated).
 - **The Forgotten Wisdom: Living with Nature** — Michael Antonio Filippi (181 pp, illustrated). Book Two of The Forgotten Series.
+- **The Forbidden Plants: Outlawing the Sacred and Selling the Deadly** by Michael Antonio Filippi (146 pp, full colour). Book Three of The Forgotten Series.
 - **Behold ENTITY: The Bridge Consciousness** — Michael A. Filippi (195 pp).
